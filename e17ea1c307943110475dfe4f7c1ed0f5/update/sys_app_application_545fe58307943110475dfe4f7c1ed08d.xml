@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>test</description>
+        <device_type>browser</device_type>
+        <hint>test</hint>
+        <name/>
+        <order/>
+        <roles>admin,itil,catalog_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 10:20:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>545fe58307943110475dfe4f7c1ed08d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git Project LP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Git Project LP" source="x_900534_git_lp">e17ea1c307943110475dfe4f7c1ed0f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Project LP">e17ea1c307943110475dfe4f7c1ed0f5</sys_scope>
+        <sys_update_name>sys_app_application_545fe58307943110475dfe4f7c1ed08d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-01 10:20:21</sys_updated_on>
+        <title>Git Project LP</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
