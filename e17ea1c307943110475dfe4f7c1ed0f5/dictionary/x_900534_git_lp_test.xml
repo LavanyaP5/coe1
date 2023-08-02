@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fd380e1b07103110475dfe4f7c1ed0f8" label="test" max_length="40" name="x_900534_git_lp_test" type="collection">
+        <element label="firstname" max_length="40" name="firstname" type="string"/>
+        <element label="lastname" max_length="40" name="lastname" type="string"/>
+    </element>
+</database>
